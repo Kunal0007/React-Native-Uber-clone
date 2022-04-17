@@ -7,7 +7,7 @@ import tw from 'tailwind-react-native-classnames';
 const data = [
     {
         id: 1,
-        title: "Get a Ride",
+        title: "Get a Ride For Free",
         image: "https://links.papareact.com/3pn",
         screen: "MapScreen",
     },
